@@ -1,2 +1,2 @@
 # Save_Nepal-Game
-###### A Simple Game made in C++
+###### A Simple Shooting Game made in C++
